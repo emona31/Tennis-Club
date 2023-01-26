@@ -1,0 +1,7 @@
+Das ist eine Überschrift und gleichzeitig schon deine erste Webseite
+Natürlich möchtest du auch längere Texte zeigen. Das geht auch ganz einfach. Funktionieren tut das schon mal problemlos in jedem Browser aber nur weil die Browser auch fehlerhaften Code akzeptieren, denn so ist das noch nicht ganz richtig. Es fehlen die Grundbausteine. Für diesen Moment reicht es schon mal zu wissen, dass das was du auf deiner Seite sehen möchtest, hier in diesem Text irgendwo zwischen sogenannten TAGS (Elemente), also zb. h1 = Überschrift oder zb. p = text, geschrieben wird.
+Ich bin auch wieder eine,etwas kleinere, Überschrift
+Beispiel für einen 2. Absatz. Du kannst dich hier auch austoben, ändere oder schreibe was neues und schau zu, wie das deine Webseite verändert.
+Wichtig zu wissen
+Das was du hier siehst und testest, geht natürlich auch mit deinen eigenen Mitteln, anstatt hier. Alles was du brauchst, und bereits hast, ist ein Texteditor (z.B. Notepad)
+Es kommt nur darauf an wie du die Textdatei dann abspeicherst (welche Endung), also nicht "meineDatei.txt" , sondern "meineDatei.html". Das ist gerade bei notepad verwirrend, weil man keine Auswahl beim Speichern hat, sondern manuell erst alle Dateien und dann selbst dieses .html schreiben muss.(geht bei anderen Editoren, kommen wir später zu, einfacher)
