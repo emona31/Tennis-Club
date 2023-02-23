@@ -1,7 +1,25 @@
-body {
+body{
 
 }
 
 header {
-    background-color: blueviolet;
+    background-color: rgb(43, 220, 226);
+}
+
+aside {
+    background-color: rgba(255, 185, 35, 0.801);
+}
+main {
+    background-color: rgb(226, 46, 187);
+}
+ 
+footer {
+    background-color: rgb(123, 255, 46);
+}
+
+div {
+    width: 1000px;
+    border: 15px seagreen;
+    padding: 50px;
+    margin: 20px;
 }
