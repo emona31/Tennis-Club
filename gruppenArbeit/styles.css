@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(0, 0, 0, 0.178);
+}
+
+aside{
+    background-color: rgb(255, 255, 255);
+}
+div{
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    border: 7px solid rgb(0, 0, 0);
+    padding: 100px;
+    margin: 30px;
+    border-radius: 100px;
+}
+
+ img{border-radius: 9px;
+    transition: all .3s ease-out
+
+}
+
+ img:hover {
+    transform: scale(1.1); 
+ }
