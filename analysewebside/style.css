@@ -1,0 +1,26 @@
+body { background: #666; font-size: 100%; 
+     font-family: sans-serif; 
+} 
+
+nav{ 
+     width: 90%; margin: 0auto;
+     background: #a8e4d0; 
+     padding: 15px;  
+} 
+
+nav li { 
+    background: #348b83; 
+    margin: 10px; list-style-type: none; 
+ }
+
+  nav li a {  
+    padding: 20px;
+     text-decoration: none;
+      text-transform: uppercase;  
+       font-weight: bold; color: #ffffff; 
+    } 
+
+    .content{
+         display: flex; 
+         flex-direction: row;
+      }

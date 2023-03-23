@@ -14,7 +14,7 @@ div{
     border-radius: 100px;
 }
 
- img{border-radius: 9px;
+ img{border-radius: 25px;
     transition: all .3s ease-out
 
 }
@@ -22,3 +22,6 @@ div{
  img:hover {
     transform: scale(1.1); 
  }
+
+
+ 
