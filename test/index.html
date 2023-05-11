@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Neue Artikel eingeben</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1>Velo 2000 - Neue Artikel eingeben</h1>
+	<form name="neuerartikel">
+		<label for="artikelnummer">Artikelnummer:</label>
+		<input type="text" id="artikelnummer" name="artikelnummer" required value="A1001">
+
+		<label for="artikelbezeichnung">Artikelbezeichnung:</label>
+		<input type="text" id="artikelbezeichnung" name="artikelbezeichnung" required value="Mountainbike Greg 2">
+
+		<label for="bruttopreis">Bruttopreis:</label>
+		<input type="number" id="bruttopreis" name="bruttopreis" min="0" step="0.01" required value="1500">
+
+		<button id="abschicken" name="abschicken">Artikel einfügen </button>
+        <p></p>
+        <label id="meldung"></label>
+	</form>
+	<script src="script.js"></script>
+</body>
+</html>
